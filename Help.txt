@@ -1,0 +1,44 @@
+﻿for       लिये
+while     जबतक
+if        अगर
+else      अन्य
+break     तोेडे
+case      मामला
+char      अक्षर
+void      खाली
+int       संख्या
+float     अपूर्णांक
+double    बडा
+long      लंबा
+short     कम
+do        करो
+enum      गणना
+goto      जाओ
+signed    चिह्न
+unsigned  नचिह्न
+sizeof    माप
+static    स्थिर
+struct    रचना
+switch    देखो
+typedef   नाम
+union     संघ
+return    भेजो
+auto      स्व
+const     अफर
+continue  जारी
+default   मूल
+extern    बाहर
+register  पंजी
+volatile  परिवर्तनशील
+scanf     लो
+printf    छापो
+
+औऐआईऊभङघधझढञऑऑ
+ओएअइउफऱखथछठ
+ँणळशष।य़
+
+ौ ै ा ी ू ब ह ग द ज ड ़ ॉ
+ो े ् ि ु प र क त च ट
+ं म न व ल स , . य
+
+ऍ ॅ ्र र् ज्ञ त्र क्ष श्र ( ) ः ऋ
