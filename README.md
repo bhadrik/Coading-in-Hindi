@@ -1,4 +1,4 @@
-# Coading-in-Hindi
+# Coding-in-Hindi
 Imagine what if Hindi become coading language? Here u can experience coading in Hindi.
 
 # How to use
