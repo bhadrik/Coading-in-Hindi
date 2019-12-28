@@ -1,5 +1,5 @@
 # Coding-in-Hindi
-Imagine what if Hindi become coading language? Here u can experience coading in Hindi.
+Imagine what if Hindi become coding language? Here u can experience coding in Hindi.
 
 # How to use
 Translator.c is program that translat Hindi code to its equivalant C code.
